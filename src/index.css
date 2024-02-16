@@ -1,0 +1,26 @@
+
+.nav{
+  margin-left: 25% !important;
+}
+span:hover{
+  color:red !important;
+}
+.container{
+  display: flex !important;
+  justify-content: space-evenly !important;
+  align-items: center !important;
+  flex-flow: row wrap !important;
+}
+.card{
+  height: 500px;
+  width: 350px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+img{
+  height: 250px !important;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
