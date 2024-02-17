@@ -80,7 +80,7 @@ const App = () => {
       date: "20 December 2022  1 Comment",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
       head: "Cyber Security",
       title: "Top 7 Cyber Security Attacks in Real Life",
       content:
