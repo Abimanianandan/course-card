@@ -71,7 +71,7 @@ const App = () => {
       date: "4 December 2023  No Comments",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
       head: "Cyber Security",
       title:
         "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
@@ -80,7 +80,7 @@ const App = () => {
       date: "20 December 2022  1 Comment",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
       head: "Cyber Security",
       title: "Top 7 Cyber Security Attacks in Real Life",
       content:
