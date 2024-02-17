@@ -55,7 +55,7 @@ const App = () => {
       date: "August 5, 2023 No Comments",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/13311397_v617batch2-kul-05-technology-1-1536x1024.jpg",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Future-of-Data-Science-768x480.webp",
       head: "Data Science",
       title: "A Complete Data Scientist Roadmap for Beginners",
       content:
@@ -80,7 +80,7 @@ const App = () => {
       date: "20 December 2022  1 Comment",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.png",
       head: "Cyber Security",
       title: "Top 7 Cyber Security Attacks in Real Life",
       content:
